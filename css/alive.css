@@ -68,11 +68,6 @@ header {
   height: 90px;
   text-align: left; }
 
-.imgBox {
-  width: 100%;
-  height: 150%;
-  text-align: center; }
-
 .vitamin {
   width: 250px;
   height: 250px;
@@ -216,7 +211,8 @@ footer {
   width: 100%;
   min-width: 100%;
   height: 100px;
-  display: inline-block; }
+  display: inline-block;
+  margin-top: 10%; }
 
 .mainImage > img {
   width: 100%;
